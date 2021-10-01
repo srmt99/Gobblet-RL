@@ -8,7 +8,8 @@ This project aims to implement an agent that can learn the game of Gobblet and p
 first section:
 -----------------------
 The logic of the game and the user interface is implemented in the first section, and the second section is about the intelligent agent who plays the game. Major topics of the first section include the implementation of the **rules** of the game, allowed moves, terminal state recognizer, and the **graphical user interface** for the player to see the game board and interact with it.
-![alt text](https://github.com/srmt99/Gobblet-RL/blob/main/REPORTS/GUI.PNG)
+
+you can see a picture of the GUI of the game [here](https://github.com/srmt99/Gobblet-RL/blob/main/REPORTS/GUI.PNG)
 
 second section:
 -----------------------
@@ -18,6 +19,6 @@ The game of Gobblet is a **two-player zero-sum game**, and thus, an **optimal st
 
 An important point to remember is that these two sections are independent of each other, which means that the agent who plays the game has **no idea** about the rules or the standard practices of the game and learns the effective strategies solely based on many plays with itself. In other words, should the first section change (the rules of the game, for instance), the second section need not change significantly.
 
-An overview of the whole process is shown below:
+An picture of the whole process is available [here](https://github.com/srmt99/srmt99.github.io/blob/main/data/RL_gobblet.jpg)
 
-![alt text](https://github.com/srmt99/srmt99.github.io/blob/main/data/RL_gobblet.jpg)
+
