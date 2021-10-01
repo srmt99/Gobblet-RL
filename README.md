@@ -1,6 +1,6 @@
-# Gobblet-RL
-
+Gobblet-RL
 Learning the game of Gobblet through reinforcement learning
+-----------------------
 
 This project aims to implement an agent that can learn the game of Gobblet and play it at an acceptable level.
 **Reinforcement learning** is the method used for learning the game. The project has been implemented in two separate sections.
@@ -9,7 +9,7 @@ first section:
 -----------------------
 The logic of the game and the user interface is implemented in the first section, and the second section is about the intelligent agent who plays the game. Major topics of the first section include the implementation of the rules of the game, allowed moves, terminal state recognizer, and the graphical user interface for the player to see the game board and interact with it.
 
-first section:
+second section:
 -----------------------
 Major topics of the second section include the learning algorithms, the training of the agent's neural network, searching the game's state space, and predicting future moves in order to play a successful game. This section includes the agent's neural network, Monte-Carlo learning, MCTS, and minimax search.
 
