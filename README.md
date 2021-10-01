@@ -13,7 +13,7 @@ you can see a picture of the GUI of the game [here](https://raw.githubuserconten
 
 second section:
 -----------------------
-Major topics of the second section include the learning algorithms, the training of the agent's neural network, searching the game's state space, and predicting future moves in order to play a successful game. This section includes the agent's **neural network**, **Monte-Carlo learning**, **MCTS**, and **minimax search**.
+Major topics of the second section include the **Monte-Carlo learning**, the training of the agent's **neural network**, searching the game's state space where **MCTS** and **minimax** are used, and predicting future moves in order to play a successful game.
 
 The game of Gobblet is a **two-player zero-sum game**, and thus, an **optimal strategy** for playing the game, corresponding to the **Nash equilibrium**, can be found using the minimax search. Yet due to the large space complexity of the game and its rather large branching factor (~40) it is almost impossible to achieve this solely by minimax search. Thats where **self-play** comes in. In fact, finding this (near) optimal strategy is the goal of the **second** section mentioned above.
 
