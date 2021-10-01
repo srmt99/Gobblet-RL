@@ -1,7 +1,6 @@
 Gobblet-RL
 ===========
-Learning the game of Gobblet through reinforcement learning
------------------------
+**Learning the game of Gobblet through reinforcement learning**
 
 This project aims to implement an agent that can learn the game of Gobblet and play it at an acceptable level.
 **Reinforcement learning** is the method used for learning the game. The project has been implemented in two separate sections.
