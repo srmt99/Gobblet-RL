@@ -16,3 +16,5 @@ Major topics of the second section include the learning algorithms, the training
 The game of Gobblet is a two-player zero-sum game, and thus, an optimal strategy, corresponding to the **Nash equilibrium**, can be found in it. In fact, finding this (near) optimal strategy is the goal of the **second** section mentioned above.
 
 An important point to remember is that these two sections are independent of each other, which means that the agent who plays the game has **no idea** about the rules or the standard practices of the game and learns the effective strategies solely based on many plays with itself. In other words, should the first section change (the rules of the game, for instance), the second section need not change significantly.
+
+![alt text](https://github.com/srmt99/srmt99.github.io/blob/main/data/RL_gobblet.jpg?raw=true)
