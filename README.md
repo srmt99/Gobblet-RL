@@ -8,6 +8,7 @@ This project aims to implement an agent that can learn the game of Gobblet and p
 first section:
 -----------------------
 The logic of the game and the user interface is implemented in the first section, and the second section is about the intelligent agent who plays the game. Major topics of the first section include the implementation of the **rules** of the game, allowed moves, terminal state recognizer, and the **graphical user interface** for the player to see the game board and interact with it.
+![alt text](https://github.com/srmt99/Gobblet-RL/blob/main/REPORTS/GUI.PNG?raw=true)
 
 second section:
 -----------------------
