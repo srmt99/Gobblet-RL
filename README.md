@@ -14,7 +14,7 @@ second section:
 -----------------------
 Major topics of the second section include the learning algorithms, the training of the agent's neural network, searching the game's state space, and predicting future moves in order to play a successful game. This section includes the agent's **neural network**, **Monte-Carlo learning**, **MCTS**, and **minimax search**.
 
-The game of Gobblet is a two-player zero-sum game, and thus, an optimal strategy, corresponding to the **Nash equilibrium**, can be found in it. In fact, finding this (near) optimal strategy is the goal of the **second** section mentioned above.
+The game of Gobblet is a **two-player zero-sum game**, and thus, an **optimal strategy** for playing the game, corresponding to the **Nash equilibrium**, can be found using the minimax search. Yet due to the large space complexity of the game and its rather large branching factor (~40) it is almost impossible to achieve this solely by minimax search. Thats where **self-play** comes in. In fact, finding this (near) optimal strategy is the goal of the **second** section mentioned above.
 
 An important point to remember is that these two sections are independent of each other, which means that the agent who plays the game has **no idea** about the rules or the standard practices of the game and learns the effective strategies solely based on many plays with itself. In other words, should the first section change (the rules of the game, for instance), the second section need not change significantly.
 
