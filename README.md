@@ -20,4 +20,4 @@ An important point to remember is that these two sections are independent of eac
 
 An overview of the whole process is shown below:
 
-![alt text](https://github.com/srmt99/srmt99.github.io/blob/main/data/RL_gobblet.jpg?raw=true)
+![alt text](https://github.com/srmt99/srmt99.github.io/blob/main/data/RL_gobblet.jpg)
